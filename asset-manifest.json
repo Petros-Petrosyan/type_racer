@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/type_racer/static/css/main.3682c3bd.chunk.css",
+    "main.js": "/type_racer/static/js/main.0e65bdd0.chunk.js",
+    "main.js.map": "/type_racer/static/js/main.0e65bdd0.chunk.js.map",
+    "runtime-main.js": "/type_racer/static/js/runtime-main.57dfed66.js",
+    "runtime-main.js.map": "/type_racer/static/js/runtime-main.57dfed66.js.map",
+    "static/js/2.ba5e66b1.chunk.js": "/type_racer/static/js/2.ba5e66b1.chunk.js",
+    "static/js/2.ba5e66b1.chunk.js.map": "/type_racer/static/js/2.ba5e66b1.chunk.js.map",
+    "index.html": "/type_racer/index.html",
+    "precache-manifest.7ea07dc5a5f0a95f7dabe9e7f9d35a66.js": "/type_racer/precache-manifest.7ea07dc5a5f0a95f7dabe9e7f9d35a66.js",
+    "service-worker.js": "/type_racer/service-worker.js",
+    "static/css/main.3682c3bd.chunk.css.map": "/type_racer/static/css/main.3682c3bd.chunk.css.map",
+    "static/js/2.ba5e66b1.chunk.js.LICENSE.txt": "/type_racer/static/js/2.ba5e66b1.chunk.js.LICENSE.txt",
+    "static/media/keyboard.webp": "/type_racer/static/media/keyboard.3986a100.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57dfed66.js",
+    "static/js/2.ba5e66b1.chunk.js",
+    "static/css/main.3682c3bd.chunk.css",
+    "static/js/main.0e65bdd0.chunk.js"
+  ]
+}
