@@ -1,0 +1,45 @@
+.main {
+  max-width: 900px;
+  margin: auto;
+
+  &__title {
+    text-align: center;
+    margin: 20px 0;
+  }
+  &__history {
+    text-align: right;
+    margin-bottom: 10px;
+    a{
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      line-height: 170%;
+      color: #202131;
+      cursor: pointer;
+    }
+  }
+
+  &__startBtn {
+    text-align: center;
+    span{
+      font-weight: 600;
+      font-size: 15px;
+      line-height: 170%;
+      color: #202131;
+      cursor: pointer;
+    }
+  }
+}
+
+.disabled {
+  text-align: right;
+  margin-bottom: 10px;
+
+  span{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 170%;
+    color: #b5b5b5;
+    cursor: not-allowed;
+  }
+}

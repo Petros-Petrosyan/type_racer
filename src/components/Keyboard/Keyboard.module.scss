@@ -1,0 +1,15 @@
+.keyboard {
+  background: #e7eefd;
+  box-shadow: 0 4px 4px rgba(0,0,0,.25);
+  border-radius: 12px;
+  padding: 25px 5px 15px;
+  text-align: center;
+  margin: 0 auto;
+
+  &__section {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin: 0 auto 10px;
+  }
+}

@@ -1,0 +1,21 @@
+.keyboardButton {
+  background-color: #bbcef7;
+  width: 44px;
+  height: 42px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 44px;
+  border-radius: 6px;
+  box-shadow: 1px 4px 0 rgba(141,173,241,.75);
+  margin: 0 2px;
+}
+
+.isSubmit {
+  background-color: #0eda61;
+  box-shadow: 1px 4px 0 rgba(19,171,81,.72);
+}
+
+.pt {
+  margin-top: 8px;
+}
